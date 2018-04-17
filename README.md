@@ -1,2 +1,2 @@
 # HelloWorld
-basic beginnerr's code on GitHub
+basic beginner's code on GitHub
